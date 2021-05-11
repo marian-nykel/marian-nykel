@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Marian Nykel
-- 👀 I’m interested in building apps in Delphi, PHP, Nette Framework
+- 👀 I’m interested in building apps using Delphi, PHP, Nette Framework
 - 🌱 I’m currently learning Vue.
 
 <!---
